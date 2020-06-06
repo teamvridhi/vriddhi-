@@ -90,7 +90,7 @@ Click on : [Secured Steps](https://public.tableau.com/profile/hema3100#!/vizhome
 
 ## Contributors
 
-* **Athira Menon** - *Strategizing and Communication*
+* **Athira Menon** - *Strategy & Communication*
 * **Hemalatha Dave** - *Conceptualization and Implimentation*
 * **Shweta Kumari** - *Conceptualization and Data Engineering*
-* **Sneha Agarwal** - *Strategizing and Communication*
+* **Sneha Agarwal** - *Conceptualization & Strategy*
