@@ -14,7 +14,6 @@ This is a basic GitHub repository by Team Sankalp, as part of WiT Hackathon 2020
 1. [Project Roadmap](#project-roadmap)
 1. [Getting Started](#getting-started)
 1. [Access the Application](#Access-the-Application)
-1. [Live Demo](#live-demo)
 1. [Built With](#built-with)
 1. [Contributors](#contributors)
 
@@ -80,9 +79,7 @@ Map Service : Kagel Housing data
 
 Click on : [Secured Steps](https://public.tableau.com/profile/hema3100#!/vizhome/WiTHackathon-SankalpTeam-SecuredSteps/Welcome?publish=yes) 
 
-## Live demo
 
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/)
 
 ## Built with
 
