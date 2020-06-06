@@ -47,7 +47,7 @@ Team Sankalp is offering an innovative solution called SecuredSteps, which combi
 
 ## Long description
 
-[More detail is available here](DESCRIPTION.md)
+[More detail is available here](WiT CallforCode Hackathon - Team Sankalp.pdf)
 
 ## Project roadmap
 
