@@ -33,12 +33,6 @@ Team Sankalp is offering an innovative solution called SecuredSteps, which combi
 
 ## Demo Video
 
-
-
-## Video
-
-
-
 [![Watch the video](SecuredSteps.png)](https://www.youtube.com/watch?v=W6Fa_aaWRTk)
 
 ## The architecture
