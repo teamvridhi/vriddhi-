@@ -14,7 +14,7 @@ This is a basic GitHub repository by Team Sankalp, as part of WiT Hackathon 2020
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
-1. [Access the Application](#Access the Application)
+1. [Access the Application](#Access-the-Application)
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
 1. [Contributors](#contributors)
