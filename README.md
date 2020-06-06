@@ -66,11 +66,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-```bash
-dnf install wget
-wget http://www.example.com/install.sh
-bash install.sh
-```
+Tableau
+IBM DB2
+Map Services
 
 ### Installing
 
@@ -78,46 +76,13 @@ A step by step series of examples that tell you how to get a development env run
 
 Say what the step will be, for example
 
-```bash
-export TOKEN="fffd0923aa667c617a62f5A_fake_token754a2ad06cc9903543f1e85"
-export EMAIL="jane@example.com"
-dnf install npm
-node samplefile.js
-Server running at http://127.0.0.1:3000/
-```
-
-And repeat
-
-```bash
-curl localhost:3000
-Thanks for looking at Code-and-Response!
-```
-
-End with an example of getting some data out of the system or using it for a little demo
+Get tableau installed from here https://help.tableau.com/current/desktopdeploy/en-us/desktop_deploy_download_and_install.htm 
+Get access to IBM DB2 https://www.ibm.com/in-en/analytics/db2/trials 
+Map Service : Kagel Housing data
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why, if you were using something like `mocha` for instnance
-
-```bash
-npm install mocha --save-dev
-vi test/test.js
-./node_modules/mocha/bin/mocha
-```
-
-### And coding style tests
-
-Explain what these tests test and why, if you chose `eslint` for example
-
-```bash
-npm install eslint --save-dev
-npx eslint --init
-npx eslint sample-file.js
-```
+Click on : https://public.tableau.com/profile/hema3100#!/vizhome/WiTHackathon-SankalpTeam-SecuredSteps/Welcome?publish=yes 
 
 ## Live demo
 
@@ -125,31 +90,14 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 ## Built with
 
-* [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-* [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [IBM DB2] (https://cloud.ibm.com/catalog?search=DB2#search_results )
+* [Tableau]( https://public.tableau.com/en-us/s/) - The compute platform for handing logic
+* [Map Services](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data ) 
+* [Custome built AI Model]
 
-## Contributing
+## Contributors
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/your/project/tags).
-
-## Authors
-
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
-
-## License
-
-This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE) file for details
-
-## Acknowledgments
-
-* Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
+* **Athira Menon** - *Branding and Marketing*
+* **Hemalatha Dave** - *Conceptualization and Implimentation*
+* **Shweta Kumari** - *Conceptualization and Data Engineering*
+* **Sneha Agarwal** - *Branding and Marketing*
