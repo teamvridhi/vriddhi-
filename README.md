@@ -82,7 +82,7 @@ Map Service : Kagel Housing data
 
 ## Access the Application (SecuredSteps)
 
-Click on : [Secured Steps] (https://public.tableau.com/profile/hema3100#!/vizhome/WiTHackathon-SankalpTeam-SecuredSteps/Welcome?publish=yes) 
+Click on : [Secured Steps](https://public.tableau.com/profile/hema3100#!/vizhome/WiTHackathon-SankalpTeam-SecuredSteps/Welcome?publish=yes) 
 
 ## Live demo
 
@@ -90,7 +90,7 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 ## Built with
 
-* [IBM DB2] (https://cloud.ibm.com/catalog?search=DB2#search_results )
+* [IBM DB2](https://cloud.ibm.com/catalog?search=DB2#search_results)
 * [Tableau]( https://public.tableau.com/en-us/s/) - The compute platform for handing logic
 * [Map Services](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data ) 
 * [Custome built AI Model]
