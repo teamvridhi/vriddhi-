@@ -31,7 +31,7 @@ Technology can enable people to know in advance about the number of people visit
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+SecuredSteps is offering a solution by making sure that everyone can fearlessly step out. 
 
 ## Demo video
 
