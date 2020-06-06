@@ -27,11 +27,11 @@ Part of the World Health Organization's guidance on limiting further spread of C
 
 ### How can technology help
 
-Technology can enable people to know in advance about the number of people visiting an establishment and allow them to socially distance, whilst sitting comfortably at home. Technology can enable people to plan their visit in safe and secure manner.
+Technology can enable people to know in advance about the number of people visiting an establishment and allow them to socially distance, whilst sitting comfortably at home. It can also enable people to plan their visit in safe and secure manner.
 
 ### The idea
 
-SecuredSteps is offering a solution by making sure that everyone can fearlessly step out. 
+Team Sankalp is offering an innovative solution called SecuredSteps, which combines location and traffic data with power of Artificial Intelligence, to provide users an alert about an establishment, they would like to visit. A simple mobile app enables users to plan their visit in a secure manner and follow social distancing norms from comfort of their home.
 
 ## Demo video
 
