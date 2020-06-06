@@ -25,9 +25,9 @@ This is a basic GitHub repository by Team Sankalp, as part of WiT Hackathon 2020
 
 Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. However, it is difficult to follow, especially in a densely crowded city like Bangalore. This is leading to people shutting themselves at home and finding it difficult to carry out their day to day important activities like vising a Bank or Salon etc.. This is creating hindrance in restarting of economy and is leading to job losses
 
-### How can technology help?
+### How can technology help
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+Technology can enable people to know in advance about the number of people visiting an establishment and allow them to socially distance, whilst sitting comfortably at home. Technology can enable people to plan their visit in safe and secure manner.
 
 ### The idea
 
