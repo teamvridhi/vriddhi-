@@ -34,7 +34,7 @@ Team Sankalp is offering an innovative solution called SecuredSteps, which combi
 
 ## Demo Video
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+[![Watch the video](SecuredSteps)(https://www.youtube.com/watch?v=W6Fa_aaWRTk)
 
 ## The architecture
 
