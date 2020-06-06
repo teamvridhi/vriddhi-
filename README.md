@@ -4,7 +4,6 @@
 
 This is a basic GitHub repository by Team Sankalp, as part of WiT Hackathon 2020, for Call for Code.
 
-*Read this in other languages: [English](README.md), [한국어](README.ko.md), [português](README.pt_br.md).*
 
 ## Contents
 
@@ -52,7 +51,7 @@ Team Sankalp is offering an innovative solution called SecuredSteps, which combi
 
 ## Project roadmap
 
-![Roadmap](roadmap.jpg)
+![Roadmap](roadmap.png)
 
 ## Getting started
 
