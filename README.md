@@ -80,9 +80,9 @@ Get tableau installed from here https://help.tableau.com/current/desktopdeploy/e
 Get access to IBM DB2 https://www.ibm.com/in-en/analytics/db2/trials 
 Map Service : Kagel Housing data
 
-## Running the tests
+## Access the Application (SecuredSteps)
 
-Click on : https://public.tableau.com/profile/hema3100#!/vizhome/WiTHackathon-SankalpTeam-SecuredSteps/Welcome?publish=yes 
+Click on : [Secured Steps] (https://public.tableau.com/profile/hema3100#!/vizhome/WiTHackathon-SankalpTeam-SecuredSteps/Welcome?publish=yes) 
 
 ## Live demo
 
