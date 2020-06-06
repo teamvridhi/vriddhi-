@@ -7,18 +7,18 @@ This is a basic GitHub repository by Team Sankalp, as part of WiT Hackathon 2020
 
 ## Contents
 
-1. [Short description](#short-description)
-1. [Demo video](#demo-video)
-1. [The architecture](#the-architecture)
-1. [Long description](#long-description)
-1. [Project roadmap](#project-roadmap)
-1. [Getting started](#getting-started)
+1. [Short Description](#short-description)
+1. [Demo Video](#demo-video)
+1. [The Architecture](#the-architecture)
+1. [Long Description](#long-description)
+1. [Project Roadmap](#project-roadmap)
+1. [Getting Started](#getting-started)
 1. [Access the Application](#Access-the-Application)
-1. [Live demo](#live-demo)
-1. [Built with](#built-with)
+1. [Live Demo](#live-demo)
+1. [Built With](#built-with)
 1. [Contributors](#contributors)
 
-## Short description
+## Short Description
 
 ### What's the problem?
 
@@ -38,12 +38,13 @@ Team Sankalp is offering an innovative solution called SecuredSteps, which combi
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+![Architechture](Architechture.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1. The user installs the site via playstore/app store.
+2. Logs in via phone number/email
+3. Provides his/her location and searches for nearby services
+4. AI skills provides hotspots warnings for services selected. Additionally, app provides alternative locations for the services.
+5. More people download/use the app, more AI skills the app gains, and better is the recommendations.
 
 ## Long description
 
