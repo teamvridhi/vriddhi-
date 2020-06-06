@@ -28,11 +28,11 @@ Part of the World Health Organization's guidance on limiting further spread of C
 
 Technology can enable people to know in advance about the number of people visiting an establishment and allow them to socially distance, whilst sitting comfortably at home. It can also enable people to plan their visit in safe and secure manner.
 
-### The idea
+### The Idea
 
 Team Sankalp is offering an innovative solution called SecuredSteps, which combines location and traffic data with power of Artificial Intelligence, to provide users an alert about an establishment, they would like to visit. A simple mobile app enables users to plan their visit in a secure manner and follow social distancing norms from comfort of their home.
 
-## Demo video
+## Demo Video
 
 [![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
