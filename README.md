@@ -14,7 +14,7 @@ This is a basic GitHub repository by Team Sankalp, as part of WiT Hackathon 2020
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
-1. [Access the Application (SecuredSteps)](#Access the Application (SecuredSteps))
+1. [Access the Application](#Access the Application)
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
 1. [Contributors](#contributors)
@@ -76,7 +76,7 @@ Get tableau installed from here https://help.tableau.com/current/desktopdeploy/e
 Get access to IBM DB2 https://www.ibm.com/in-en/analytics/db2/trials 
 Map Service : Kagel Housing data
 
-## Access the Application (SecuredSteps)
+## Access the Application
 
 Click on : [Secured Steps](https://public.tableau.com/profile/hema3100#!/vizhome/WiTHackathon-SankalpTeam-SecuredSteps/Welcome?publish=yes) 
 
