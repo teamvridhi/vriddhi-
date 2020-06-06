@@ -23,7 +23,7 @@ This is a basic GitHub repository by Team Sankalp, as part of WiT Hackathon 2020
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time,  keeping them engaged, entertained, and on top of their education is important.
+Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. However, it is difficult to follow, especially in a densely crowded city like Bangalore. This is leading to people shutting themselves at home and finding it difficult to carry out their day to day important activities like vising a Bank or Salon etc.. This is creating hindrance in restarting of economy and is leading to job losses
 
 ### How can technology help?
 
