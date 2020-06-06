@@ -23,7 +23,7 @@ This is a basic GitHub repository by Team Sankalp, as part of WiT Hackathon 2020
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. However, it is difficult to follow, especially in a densely crowded city like Bangalore. This is leading to people shutting themselves at home and finding it difficult to carry out their day to day important activities like vising a Bank or Salon etc.. This is creating hindrance in restarting of economy and is leading to job losses
+Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. However, it is difficult to follow, especially in a densely crowded city like Bangalore. This is leading to people shutting themselves at home and finding it difficult to carry out their day to day important activities like visiting a Bank or Salon etc. This is creating hindrance in restarting of economy and is leading to job losses.
 
 ### How can technology help
 
@@ -93,7 +93,7 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 
 ## Contributors
 
-* **Athira Menon** - *Branding and Marketing*
+* **Athira Menon** - *Strategizing and Communication*
 * **Hemalatha Dave** - *Conceptualization and Implimentation*
 * **Shweta Kumari** - *Conceptualization and Data Engineering*
-* **Sneha Agarwal** - *Branding and Marketing*
+* **Sneha Agarwal** - *Strategizing and Communication*
