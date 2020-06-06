@@ -1,8 +1,8 @@
 # WiT CallforCode: Sankalp-SecuredSteps
 
-[![License](https://img.shields.io/badge/License-Apache2-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0) [![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
+[![Slack](https://img.shields.io/badge/Join-Slack-blue)](https://callforcode.org/slack) [![Website](https://img.shields.io/badge/View-Website-blue)](https://code-and-response.github.io/Project-Sample/)
 
-A basic GitHub repository example for Call for Code submissions and those projects that join the Code and Response initiative. Not all sections or files are required. You can make this as simple or as in-depth as you need.
+This is a basic GitHub repository by Team Sankalp, as part of WiT Hackathon 2020, for Call for Code.
 
 *Read this in other languages: [English](README.md), [한국어](README.ko.md), [português](README.pt_br.md).*
 
@@ -14,14 +14,10 @@ A basic GitHub repository example for Call for Code submissions and those projec
 1. [Long description](#long-description)
 1. [Project roadmap](#project-roadmap)
 1. [Getting started](#getting-started)
-1. [Running the tests](#running-the-tests)
+1. [Access the Application (SecuredSteps) ](#Access the Application (SecuredSteps) )
 1. [Live demo](#live-demo)
 1. [Built with](#built-with)
-1. [Contributing](#contributing)
-1. [Versioning](#versioning)
-1. [Authors](#authors)
-1. [License](#license)
-1. [Acknowledgments](#acknowledgments)
+1. [Contributors](#contributors)
 
 ## Short description
 
@@ -91,9 +87,9 @@ You can find a running system to test at [callforcode.mybluemix.net](http://call
 ## Built with
 
 * [IBM DB2](https://cloud.ibm.com/catalog?search=DB2#search_results)
-* [Tableau]( https://public.tableau.com/en-us/s/) - The compute platform for handing logic
+* [Tableau]( https://public.tableau.com/en-us/s/)
 * [Map Services](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data ) 
-* [Custome built AI Model]
+* Custome built AI Model
 
 ## Contributors
 
