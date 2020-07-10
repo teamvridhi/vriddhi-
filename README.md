@@ -58,14 +58,12 @@ This is a basic GitHub repository by Team Vriddhi, as part of AtmanirbharBharat 
 
 ## Built with
 
-* [IBM DB2](https://cloud.ibm.com/catalog?search=DB2#search_results)
-* [Tableau]( https://public.tableau.com/en-us/s/)
-* [Map Services](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data ) 
-* Custome built AI Model
+
 
 ## Contributors
 
-* **Athira Menon** - *Strategy & Communication*
+* **Anitha ** - *Strategy & Communication*
 * **Hemalatha Dave** - *Conceptualization and Implimentation*
-* **Shweta Kumari** - *Conceptualization and Data Engineering*
-* **Sneha Agarwal** - *Conceptualization & Strategy*
+* **Shweta Kumari** - *Conceptualization and Implimentation*
+* **Sumit Kumar** - *Build and Implimentataion*
+* **Prateek** - *Build and Implimentataion*
